@@ -10,8 +10,10 @@ flask-sqlalchemy = "*"
 sqlalchemy-utils = "*"
 flask-mysqldb = "*"
 flask-blueprint = "*"
+flask-login = "*"
 
 [dev-packages]
+faker = "*"
 
 [requires]
 python_version = "3.8"
